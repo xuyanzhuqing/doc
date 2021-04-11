@@ -1,3 +1,4 @@
-* [首页](/page/home "wellcome to my space")
-* [javascript](/javascript/_sidebar)
+* [home](/page/home "wellcome")
+* [code](/code/_sidebar)
+* [poems](/poems/_sidebar)
 * [guid](/page/guide)

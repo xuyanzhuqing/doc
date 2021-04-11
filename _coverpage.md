@@ -1,14 +1,12 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+<img src="/public/logo.png" height="300">
 
-# docsify <small>3.5</small>
+# record myself <small>v1.0</small>
 
-> 一个神奇的文档网站生成器。
+> keep record to the end
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- I think therefore I am
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/xuyanzhuqing)
+[Get Started](/page/home)
