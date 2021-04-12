@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="/public/logo.png" height="300">
+<img src="./public/logo.png" height="300">
 
 # record myself <small>v1.0</small>
 
